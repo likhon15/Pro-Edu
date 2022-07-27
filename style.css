@@ -35,7 +35,7 @@ left: 170px;
   .imgs {
     height: 100%;
     width: 100%;
-    object-fit: contain;
+    object-fit: cover;
   }
 
   .sdx{
@@ -64,6 +64,8 @@ left: 170px;
      padding-top: 30px;
      text-align: center;
    }
+
+   
 }
 
 
