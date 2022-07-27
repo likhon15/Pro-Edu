@@ -60,9 +60,10 @@ left: 170px;
     align-items: center;
   }
 
-  .loll{
-    margin: 0 auto;
-  }
+   .colx{
+     padding-top: 30px;
+     text-align: center;
+   }
 }
 
 
