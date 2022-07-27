@@ -43,6 +43,12 @@ left: 170px;
     place-items: center;
   }
 
+  .maxx{
+    place-items: center;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  }
   
   .mila{
     display: flex;
