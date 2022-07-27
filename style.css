@@ -64,7 +64,15 @@ left: 170px;
      padding-top: 30px;
      text-align: center;
    }
+ 
+   .lola{
+    flex-direction: column;
+    overflow: hidden;
+   }
 
+   .plex{
+    flex-direction: column;
+   }
    
 }
 
