@@ -31,4 +31,16 @@ left: 170px;
   .mola{
     left: 200px;
   }
+
+  .imgs {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .sdx{
+    margin:  0 auto;
+  }
 }
+
+
