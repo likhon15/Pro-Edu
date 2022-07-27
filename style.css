@@ -73,6 +73,10 @@ left: 170px;
    .plex{
     flex-direction: column;
    }
+
+   .plexx{
+    flex-direction: column;
+   }
    
 }
 
