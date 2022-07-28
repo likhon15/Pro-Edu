@@ -16,7 +16,7 @@ bottom: 60px;
 left: 170px;
 }
 
-@media only screen and (max-width:768px)  and (min-width:100px){
+@media only screen and (max-width:576px)  and (min-width:0px){
   .carousel-item img{
     height: 700px;
     object-fit: cover;
@@ -75,6 +75,11 @@ left: 170px;
    }
    .ss{
        flex-direction: column;
+       
+   }
+
+   .ss img{
+      hei
    }
 }
 
@@ -103,5 +108,7 @@ left: 170px;
     padding-top: 40px;
     text-align: center;
   }
-   
+   .ss{
+      height: 250px;
+   }
 }
